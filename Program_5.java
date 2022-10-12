@@ -6,7 +6,9 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-public class LeastkeyGreaterThanKey {
+//To find the least key greater than or equal to a given key.
+
+public class Program_5 {
     public static void main(String[] args) {
 
         HashMap<Integer, String> hs
