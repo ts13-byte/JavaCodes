@@ -3,6 +3,8 @@ package work;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//To replace the element at specific index with another number.
+
 public class ReplaceTheElement {
     public static void main(String[] args) {
 
