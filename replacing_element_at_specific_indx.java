@@ -3,7 +3,7 @@ package work;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class replace_the_element {
+public class ReplaceTheElement {
     public static void main(String[] args) {
 
         ArrayList<Integer> nums=new ArrayList<>();
