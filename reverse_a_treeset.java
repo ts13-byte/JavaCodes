@@ -2,7 +2,7 @@ package work;
 
 import java.util.*;
 
-public class reversing {
+public class ReverseTreeSet {
     public static void main(String[] args) {
         TreeSet<Integer> ts=new TreeSet<>();
 
