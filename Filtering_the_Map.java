@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class filteringTheMap {
+public class FilteringTheMap {
     public static void main(String[] args) {
         // Map - Rank of top Cricket Nations
         Map<Integer, String> rankOfCricketNations = new
