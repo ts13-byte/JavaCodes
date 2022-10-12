@@ -2,7 +2,7 @@ package work;
 
 import java.util.HashSet;
 
-public class comparing_two_sets {
+public class ComparingTheSets{
     public static void main(String[] args) {
 
         HashSet<Integer> h1=new HashSet<>();
