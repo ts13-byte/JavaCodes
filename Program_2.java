@@ -4,7 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class FilteringTheMap {
+//Write a Java program to get the portion of a  map whose keys are less than (or equal to, if inclusive is true) a given key using streams.
+
+public class Program_2 {
     public static void main(String[] args) {
         // Map - Rank of top Cricket Nations
         Map<Integer, String> rankOfCricketNations = new
