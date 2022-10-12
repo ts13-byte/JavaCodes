@@ -2,7 +2,9 @@ package work;
 
 import java.util.*;
 
-public class ReverseTreeSet {
+//To reverse a TreeSet
+
+public class Program_7 {
     public static void main(String[] args) {
         TreeSet<Integer> ts=new TreeSet<>();
 
