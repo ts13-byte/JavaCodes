@@ -2,7 +2,9 @@ package work;
 
 import java.util.HashSet;
 
-public class ComparingTheSets{
+//Write a Java program to compare two sets and retain elements which are same on both sets.
+
+public class Program_3{
     public static void main(String[] args) {
 
         HashSet<Integer> h1=new HashSet<>();
