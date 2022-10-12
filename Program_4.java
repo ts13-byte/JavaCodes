@@ -3,7 +3,9 @@ package work;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class SetToArray {
+//HashSet to an Array.
+
+public class Program_4 {
     public static void main(String[] args) {
         HashSet<String> hs=new HashSet<>();
         hs.add("sara");
