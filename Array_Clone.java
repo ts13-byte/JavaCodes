@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-public class arrayClone {
+public class ArrayCloning {
     public static void main(String[] args) {
         /*List<Integer> l=new ArrayList<>();
         l.add(1);
